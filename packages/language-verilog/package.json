@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+        "spec": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-118127-6562-117fb8t.shquk81tt9"
+    ]
+  ],
+  "_from": "../d-118127-6562-18li929.ixt3th85mi/package.tgz",
+  "_id": "language-verilog@0.4.0",
+  "_inCache": true,
+  "_location": "/language-verilog",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+    "spec": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118127-6562-18li929.ixt3th85mi/package.tgz",
+  "_shasum": "34833ff29a95a53cf34f807667f52386e63fc9bb",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-118127-6562-18li929.ixt3th85mi/package.tgz",
+  "_where": "/tmp/apm-install-dir-118127-6562-117fb8t.shquk81tt9",
+  "bugs": {
+    "url": "https://github.com/Razer6/language-verilog/issues"
+  },
+  "dependencies": {},
+  "description": "Verilog language support in Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/Razer6/language-verilog#readme",
+  "license": "MIT",
+  "name": "language-verilog",
+  "optionalDependencies": {},
+  "readme": "# Verilog language support in Atom\n\nAdds syntax highlighting and snippets to Verilog files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [verilog.tmbundle](https://github.com/textmate/verilog.tmbundle).\n\n## Contributing\n\n1. Fork it ( https://github.com/razer6/language-verilog/fork )\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Add some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create a new Pull Request\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razer6/language-verilog.git"
+  },
+  "version": "0.4.0"
+}

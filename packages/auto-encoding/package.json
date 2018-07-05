@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+        "spec": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-118127-5747-1otp4by.3cmgbhjjor"
+    ]
+  ],
+  "_from": "../d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+  "_id": "auto-encoding@0.7.0",
+  "_inCache": true,
+  "_location": "/auto-encoding",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+    "spec": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+  "_shasum": "abb3fff12f63a96c87571146f0a19926f5dcc547",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-118127-5747-yjimbc.18e0vvlsor/package.tgz",
+  "_where": "/tmp/apm-install-dir-118127-5747-1otp4by.3cmgbhjjor",
+  "bugs": {
+    "url": "https://github.com/t-ishii/auto-encoding/issues"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.15",
+    "jschardet": "^1.4.1",
+    "lodash": "^4.17.4"
+  },
+  "description": "Auto detect",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/t-ishii/auto-encoding#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "auto-encoding",
+  "optionalDependencies": {},
+  "readme": "# auto-encoding\n\ndefault \"Auto Detect\".\n\n## Installation\n\n`$ apm install auto-encoding`\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-ishii/auto-encoding.git"
+  },
+  "version": "0.7.0"
+}
